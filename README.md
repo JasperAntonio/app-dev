@@ -2,6 +2,7 @@
 My first repository
 I mostly watch anime and long series of movies.
 **Favorite Series**
+>
 1. Fate Grand Order
 2. Fate Stay Night Series
 3. Charlotte
